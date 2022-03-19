@@ -5,10 +5,10 @@ HTML ODEV 1 VE ODEV 2
 https://github.com/beyzamadenoglu/Patika-HTML-Odev1
 
 HTML BOLUM SONU CALISMASI 
-https://github.com/beyzamadenoglu/Patika-HTML-Odev1
+https://github.com/beyzamadenoglu/HTML-Bolum-Sonu-Calismasi
 
 HTML ODEV 3
-https://github.com/beyzamadenoglu/Patika-HTML-Odev1
+https://github.com/beyzamadenoglu/HTMLOdev3
 
 CSS ODEV 1 
 https://github.com/beyzamadenoglu/Patika-CSS-Odev1
